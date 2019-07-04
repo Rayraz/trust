@@ -41,42 +41,43 @@ And if no one else is, PLEASE CREATE A NEW ISSUE in this repo
 so that others know you're working on it!]**
 
 Translations done so far:
-[Japanese](https://htlife.github.io/trust_jp/),
+[Arabic](https://mudaraljundi.github.io/trust/),
+[Brazilian Portuguese](https://brunolemos.github.io/trust/),
+[Bulgarian](http://ncase.me/trust-bg/),
+[Catalan](https://fbricart.github.io/trust/),
 [Chinese (Simplified)](https://sekai.co/trust/),
 [Chinese (Taiwan)](https://audreyt.github.io/trust-zh-TW/),
-[Brazilian Portuguese](https://brunolemos.github.io/trust/),
-[French](https://ayowel.github.io/trust/),
-[Spain Spanish](https://ccamara.github.io/trust/),
-[Latin American Spanish](https://maeriens.github.io/trust/),
-[Russian](https://notdotteam.github.io/trust/),
-[German](https://jkoelling.github.io/trust/),
-[Italian](https://lvdt.github.io/trust/),
-[Turkish](https://osaatcioglu.github.io/trust),
-[Polish](https://sin.github.io/trust/),
-[Vietnamese](https://nghiatt90.github.io/trust-vn/),
-[Greek](https://lightspot21.github.io/trust/),
-[Persian/Farsi](https://hamed.github.io/trust/),
-[Hungarian](http://ncase.me/trust-hu/),
-[Catalan](https://fbricart.github.io/trust/),
-[Arabic](https://mudaraljundi.github.io/trust/),
-[Bulgarian](http://ncase.me/trust-bg/),
-[Korean](https://osori.github.io/trust-ko/),
-[Romanian](https://enfactorial.github.io/trust/),
-[Ukrainian](https://yaroslav-f.github.io/trust/),
 [Croatian](http://www.varljiv.org/evolucija-povjerenja/index.html),
-[Swedish](http://trust.alicedarner.se/),
-[Estonian](http://ncase.me/trust-et/),
 [Czech](https://nextghost.github.io/trust/),
+[Dutch](https://rayraz.github.io/trust),
+[Estonian](http://ncase.me/trust-et/),
+[French](https://ayowel.github.io/trust/),
+[German](https://jkoelling.github.io/trust/),
+[Greek](https://lightspot21.github.io/trust/),
+[Hungarian](http://ncase.me/trust-hu/),
+[Italian](https://lvdt.github.io/trust/),
+[Japanese](https://htlife.github.io/trust_jp/),
+[Korean](https://osori.github.io/trust-ko/),
+[Latin American Spanish](https://maeriens.github.io/trust/),
 [Latvian](https://reversedfate.github.io/trust/)
+[Persian/Farsi](https://hamed.github.io/trust/),
+[Polish](https://sin.github.io/trust/),
+[Romanian](https://enfactorial.github.io/trust/),
+[Russian](https://notdotteam.github.io/trust/),
+[Spain Spanish](https://ccamara.github.io/trust/),
+[Swedish](http://trust.alicedarner.se/),
+[Turkish](https://osaatcioglu.github.io/trust),
+[Ukrainian](https://yaroslav-f.github.io/trust/),
+[Vietnamese](https://nghiatt90.github.io/trust-vn/),
 
-**Step 1)** Fork or download this repo    
+**Step 1)** Fork or download this repo
 (if you're forking it, be sure to make sure *your* repo is on a branch called `gh-pages`, so that GitHub can automatically generate a webpage for it!)
 
 **Step 2)** Translate the following files:
 
-`index.html` -- The title & social sharing text (a few words)    
-`words.html` -- All the words for the interactive itself (~3,300 words)    
-(optional) `notes/index.html` -- The footnotes (~1,100 words)    
+`index.html` -- The title & social sharing text (a few words)
+`words.html` -- All the words for the interactive itself (~3,300 words)
+(optional) `notes/index.html` -- The footnotes (~1,100 words)
 (optional) `peeps/index.html` -- The full credits (a few words)
 
 **Step 3)** Remember to test your translation! You can test things locally using [http-server](https://www.npmjs.com/package/http-server) or [MAMP](https://www.mamp.info/en/).
