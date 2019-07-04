@@ -1,85 +1,85 @@
-**"The Evolution of Trust"**
+**"De Evolutie van Vertrouwen"**
 
-This interactive guide is heavily based off Robert Axelrod's groundbreaking 1984 book, [The Evolution of Cooperation](https://www.amazon.com/Evolution-Cooperation-Revised-Robert-Axelrod/dp/0465005640)! I was also heavily inspired by his 1997 sequel, [The Complexity of Cooperation](http://press.princeton.edu/titles/6144.html), and Robert Putnam's 2000 book on America's declining "social capital", [Bowling Alone](http://bowlingalone.com/).
+Deze interactieve gids is sterk gebaseerd op het baanbrekende 1984-boek van Robert Axelrod, [The Evolution of Cooperation](https://www.amazon.com/Evolution-Cooperation-Revised-Robert-Axelrod/dp/0465005640)! Ik werd ook hevig geïnspireerd door zijn vervolg uit 1997, [The Complexity of Cooperation](http://press.princeton.edu/titles/6144.html), en het boek van Robert Putnam uit 2000 over het afnemende "sociale kapitaal" van Amerika, [Bowling Alone](http://bowlingalone.com/).
 
-yes i'm a bookworm nerd, plz don't bully me
+ja, ik ben een boekenwurm nerd, plaag me niet a.j.b
 
-**"Fewer and fewer people say they trust each other"**
+**"Minder en minder mensen zeggen dat ze elkaar vertrouwen"**
 
-To see a thorough statistical take on this, check out [Our World In Data](https://ourworldindata.org/trust). Mmmm stats~
+Bekijk [Our World In Data](https://ourworldindata.org/trust) om hier een grondige statistische blik over te werpen. Jammie stats~
 
-**"The Game of Trust"**
+**"Het Spel van Vertrouwen"**
 
-This game is also known in game theory as the infamous *Prisoner's Dilemma*. The Prisoner's Dilemma is named after a story where two suspects can either squeal on their partner-in-crime ("cheat"), or stay silent ("cooperate"). I chose not to do this story because 1) in this case, both players "cooperating" would be bad for society, and 2) it's unrealistic, everyone knows that snitches get stitches
+Dit spel is ook bekend in de speltheorie als het beruchte *Prisoner's Dilemma*. Het Prisoner's Dilemma is vernoemd naar een verhaal waarbij twee verdachten hun partner-in-crime kunnen verraden ("vals spelen") of stil kunnen blijven ("samenwerken"). Ik heb ervoor gekozen dit verhaal niet te gebruiken omdat 1) in dit geval zou het, als beide spelers 'samenwerken', slecht zijn voor de samenleving, en 2) het is onrealistisch, iedereen weet dat het slecht afloopt met klikspanen
 
-**"You won't know in advance when the last round is"**
+**"Je zal niet van tevoren weten wanneer de laatste ronde is"**
 
-In the repeated game of trust (also known as *Iterated Prisoner's Dilemma*), it's important that neither player knows *when* the last round is. Why? Think about it - on the last round, both players would know their action has no consequence, so they'd both cheat. But that means in the second-last round, their actions can't change the next round, so they'd also both cheat. But that means in the third-last round... etc etc.
+In het herhaalde spel van vertrouwen (ook bekend als *Iterated Prisoner's Dilemma*), is het belangrijk dat geen van beide spelers weet *wanneer* de laatste ronde is. Waarom? Denk er eens over na - in de laatste ronde zouden beide spelers weten dat hun actie geen gevolgen heeft, dus speelen ze allebei vals. Maar dat betekent dat in de voorlaatste ronde hun acties de volgende ronde niet kunnen veranderen, zodat ze voorlaatste ronde dus ook allebei vals spelen. Maar dat betekent in de derde-laatste ronde ... etc. etc.
 
-**"Copycat"**
+**"Na-aper"**
 
-This strategy is better known in game theory as *Tit For Tat*. It was created by Anatol Rapoport in 1980, for Robert Axelrod's game theory tournament. I chose not to use the name "Tit For Tat" because 1) it *sounds* mean, although it's a nice & fair strategy, and 2) a lot of the public have already heard about Tit For Tat, so if I used that name, players might just place their bets on this character because they've already heard of "Tit For Tat".
+Deze strategie is beter bekend in de speltheorie als *Tit For Tat*. Het is gemaakt door Anatol Rapoport in 1980, voor het speltheorie-toernooi van Robert Axelrod. Ik koos ervoor om de naam "Tit For Tat" niet te gebruiken omdat 1) het *klinkt* gemeen, hoewel het een mooie en eerlijke strategie is, en 2) veel van het publiek zal al van Tit For Tat gehoord hebben, dus als ik die naam zou gebruiken, zouden spelers gewoon hun weddenschappen op dit personage plaatsen omdat ze al hebben gehoord van "Tit For Tat".
 
-**"You may be skeptical about the Christmas Truce"**
+**"Misschien sta je sceptisch tegenover het kerstbestand"**
 
-There was another guy who was skeptical, too. During the truce, a German corporal remarked with disgust, ["Such a thing should not happen in wartime. Have you no German sense of honor?"](http://time.com/3643889/christmas-truce-1914/)
+Er was nog een andere kerel die sceptisch was. Tijdens de wapenstilstand merkte een Duitse korporaal met walging op: "Zoiets zou niet in oorlogstijd moeten gebeuren. Heb je geen Duits gevoel van eer?" (Http://time.com/3643889/christmas-truce-1914/)
 
-That man was Adolf Hitler.
+Die man was Adolf Hitler.
 
-You can't make this sh\*t up.
+Dat verzin je toch niet??
 
-**"For culture to evolve"**
+**Om cultuur te laten evolueren"**
 
-There's a new, super-young interdisciplinary field that I'm really *excited* by, called *Cultural Evolution*. Admittedly, it's a bad name, not least because it sounds uncomfortably close to "Social Darwinism". Which it's not. Pinky promise.
+Er is een nieuw, super-jong interdisciplinair veld waar ik echt *enthousiast* over ben, genaamd *Cultural Evolution*. Ik geef toe, het is een slechte naam, niet in het minst omdat het ongemakkelijk veel op 'Sociaal Darwinisme' lijkt. Wat het niet is. Ik beloof het.
 
-One core part of Cultural Evolution Theory is culture evolves the same way life does: through variation & selection. Variation: people differ in beliefs & behaviors, and invent new ones almost every day. Selection: people try to imitate their heroes & elders, and adopt their beliefs/behaviors.
+Een belangrijk onderdeel van de Cultural Evolution Theory is dat cultuur zich op dezelfde manier ontwikkelt als het leven: door variatie en selectie. Variatie: mensen verschillen in overtuigingen en gedrag en vinden bijna elke dag nieuwe. Selectie: mensen proberen hun helden en ouderen te imiteren en hun overtuigingen/gedrag over te nemen.
 
-(Note: this is *not* quite Richard Dawkin's "meme" theory. "Meme" implies, that, like genes, ideas come in discrete chunks & replicate with high fidelity. This is obviously untrue. Also you can't say "meme" with a straight face these days, so whatever)
+(Opmerking: dit is *niet* Richard Dawkin's "meme" theorie. "Meme" houdt in dat, net als genen, ideeën in discrete brokken komen en met hoge getrouwheid repliceren. Dit is natuurlijk niet waar. Je kunt tegenwoordig grouwens ook niet "meme" zeggen met een serieus gezicht, dus ja...)
 
-The reason why I think Cultural Evolution is so promising, is that it could integrate *all* the human sciences: psychology, sociology, economics, anthropology, political science, neuroscience, biology. The greatest problems of our time do not obey conventional academic boundaries – so, it's about dang time we created a common language between the sciences and humanities.
+De reden waarom ik denk dat Culturele Evolutie zo veelbelovend is, is dat het *alle* de menswetenschappen kan integreren: psychologie, sociologie, economie, antropologie, politieke wetenschappen, neurowetenschap, biologie. De grootste problemen van onze tijd houden zich niet aan de traditionele academische grenzen. Het is dus tijd dat we een gemeenschappelijke taal creëren tussen de wetenschappen en de geesteswetenschappen.
 
-If you want to learn more about Cultural Evolution Theory, I highly recommend Joseph Henrich's 2015 book, [The Secret of Our Success](http://press.princeton.edu/titles/10543.html)!
+Als je meer wilt weten over de Cultural Evolution Theory, raad ik ten zeerste het boek van Joseph Henrich uit 2015 aan, [The Secret of Our Success](http://press.princeton.edu/titles/10543.html)!
 
-**"[Always Cheat's] exploitativeness was its downfall"**
+**"[Altijd Vals-spelers] uitbuiting was zijn ondergang"**
 
-You may have heard that someone found a player strategy that can "exploit evolution". From the [Scientific American](https://www.scientificamerican.com/article/game-theory-calls-cooperation-into-question1/): "[Press & Dyson's results] suggested the best strategies were selfish ones that led to extortion, not cooperation."
+Je hebt misschien gehoord dat iemand een spelersstrategie heeft gevonden die "evolutie kan uitbuiten". Van de [Scientific American](https://www.scientificamerican.com/article/game-theory-calls-cooperation-into-question1/): "[De resultaten van Press & Dyson] suggereerden dat de beste strategieën egoïstische strategieën waren die leidden tot uitbuiting, niet samenwerking."
 
-Press & Dyson's findings *are* really important, but Scientific American confused two different uses of the word "evolutionary". The first use, the way this interactive guide used it, was to mean that the *tournament's population* changes over time. The second use, the way P&D meant it, was that the *player's rules* changes over time. For example: Detective is "evolutionary" since it changes its own rules, while Copycat is *not* "evolutionary" since it sticks to its principles.
+Press & Dyson's bevindingen *zijn* erg belangrijk, maar Scientific American verwarde twee verschillende gebruiksmogelijkheden van het woord "evolutionair". Het eerste gebruik, zoals deze interactieve gids het gebruikte, betekende dat de *populatie van het toernooi* met de tijd verandert. Het tweede gebruik, zoals P & D het bedoelde, was dat de *regels van de speler* met de tijd veranderen. Bijvoorbeeld: Detective is "evolutionair" omdat het zijn eigen regels verandert, terwijl de na-aper *niet* "evolutionair" is omdat hij vasthoudt aan zijn principes.
 
-So, P&D found strategies that could exploit "evolutionary" *players* like Detective, but their strategies _still could not exploit the evolution of the tournament_, because in the long run, fair & nice strategies still win. 
+Dus P&D vonden strategieën die "evolutionaire" *spelers* zoals de Detective konden gebruiken, maar hun strategieën konden nog steeds niet de evolutie van het toernooi benutten, omdat op de lange termijn eerlijke en aardige strategieën nog steeds winnen.
 
-**"We have fewer friends -- period."**
+**"We hebben minder vrienden - punt uit."**
 
-Seriously, go read Robert Putnam's 2000 book, [Bowling Alone](http://bowlingalone.com/). Yeah it's a bit outdated by now, 17 years later, but its core findings and lessons are still true as ever -- probably even more so.
+Serieus, lees het 2000 boek van Robert Putnam, [Bowling Alone](http://bowlingalone.com/). Ja, het is nu een beetje verouderd, 17 jaar later, maar de kernbevindingen en lessen zijn nog altijd waar -- en waarschijnlijk zelfs nog meer.
 
-**"Non-zero-sum game" / "Win-Win"**
+**"Niet-nulsom-spel" / "Win-Win"**
 
-This is kinda cheesy, but I still adore the 1989 book, [The Seven Habits of Highly Effective People](https://www.amazon.com/Habits-Highly-Effective-People-Powerful/dp/0743269519) -- especially Habit #4: Think Win-Win.
+Dit is nogal afgezaagd, maar ik ben nog steeds dol op het boek van 1989, [The Seven Habits of Highly Effective People](https://www.amazon.com/Habits-Highly-Effective-People-Powerful/dp/0743269519) - in het bijzonder Gewoonte #4: Denk Win-Win.
 
-Because, contrary to popular belief, coming up with Win-Win solutions is hard, takes lots of effort, and is emotionally painful. Heck, I'd go even further – I'd say our culture's default stance of Win-Lose "us versus them" is the easy path, the lazy path, the equivalent of activism junk food.
+Omdat, in tegenstelling tot wat vaak wordt gedacht, het bedenken van Win-Win-oplossingen moeilijk is, veel moeite kost en emotioneel pijnlijk is. Sterker nog, ik zou nog verder gaan - ik zou zeggen dat de standaard houding van onze cultuur over Win-Lose "wij versus zij" het gemakkelijke pad is, het luie pad, het equivalent van activisten junkfood.
 
-Anyway. Exaggerations aside, I strongly believe "Win-Win" / "Non-Zero-Sum" is something we all urgently need -- in our personal lives, social lives, and _definitely_ political lives.
+Hoe dan ook. Overdrijvingen daargeladen, ben ik ervan overtuigd dat "Win-Win" / "Niet-nulsom" iets is dat we allemaal dringend nodig hebben - in ons persoonlijke leven, sociale leven en _al helemaal_ onze politieke levens.
 
-**"Copykitten"**
+**"Aardig na-aapje"**
 
-Just like how Copycat's original name was Tit For Tat, Copykitten's original name is *Tit For Two Tats*. Same rule: Cooperate, unless the other players cheats *twice* in a row.
+Net zoals de originele naam "Tit For Tat" van na-aper, is de oorspronkelijke naam van aardig na-aapje *Tit For Two Tats*. Dezelfde regel: samenwerken, tenzij de andere spelers *tweemaal* op een rij vals spelen.
 
-There's another forgiving variant of Tit For Tat called *Generous Tit For Tat*. It's got a similar but slightly different rule: Cooperate, but when the other player cheats, forgive them with a X% chance. This design, with the variable "X", lets you set different "forgiveness" levels for the player.
+Er is nog een andere vergevingsgezinde variant van "Tit For Tat" genaamd *Generous Tit For Tat*. Het heeft een vergelijkbare maar iets andere regel: werk samen, maar wanneer de andere speler vals speelt, vergeef hem dan met een X% kans. Dit ontwerp, met de variabele "X", laat je verschillende "vergevings" -niveaus instellen voor de speler.
 
-**"Simpleton"**
+**"Domoor"**
 
-Also known as Pavlov, or Win-Stay-Lose-Shift.
+Ook wel bekend als Pavlov, of Win-Stay-Lose-Shift.
 
-**"Our modern media [...] has increased our miscommunication"**
+**"Onze moderne media [...] hebben onze miscommunicatie vergroot"**
 
-I'm only in my twenties, I don't know why I always sound like an old grump shaking my fist at a cloud. But, yeah, anyway, go read Neil Postman's 1985 book, [Amusing Ourselves To Death](https://www.amazon.com/Amusing-Ourselves-Death-Discourse-Business/dp/014303653X). It's about how the communications technology we use subtly shapes our culture ("the medium is the message") and how technology that is biased towards quick & fast information (TV in 1985, social media now) turns us all into trivial, short-term thinkers.
+Ik ben pas in de twintig, ik weet niet waarom ik altijd klinkt als een ouwe lul die mijn vuist schudt naar een wolk. Maar ja, hoe dan ook, lees Neil Postman's boek uit 1985, [Amusing Ourselves To Death](https://www.amazon.com/Amusing-Ourselves-Death-Discourse-Business/dp/014303653X). Het gaat over hoe de communicatietechnologie die we gebruiken op subtiele wijze onze cultuur vormt ("het medium is de boodschap") en hoe technologie die de nadruk legt op snelle informatie (tv in 1985, sociale media nu) ons allemaal verandert in triviale, korte termijn denkers.
 
-Although I don't agree with _everything_ in his book, it's a real eye-opener, and surprisingly prescient for 1985. His rant against Sesame Street is kinda weird, though.
+Hoewel ik het niet met _alles_ eens ben, is het een echte eye-opener, en verrassend vooruitziend voor 1985. Zijn tirade tegen Sesamstraat is echter een beetje raar.
 
-**"Build relationships. Find win-wins. Communicate clearly."**
+**"Bouw relaties. Vind win-wins. Communiceer duidelijk."**
 
-Giving advice can come off as condescending, so let me be perfectly honest: I do *not* have any of this figured out, personally. I'm bad at developing friendships, especially with people of different political views than me. I occasionally forget about win-wins, and lapse into "us versus them" thinking. And judging by this rambling, I'm also still terrible at communicating clearly.
+Advies geven kan als neerbuigend overkomen, dus laat me eerlijk zijn: ik heb *geen* van dit al persoonlijk voor elkaar. Ik ben slecht in het ontwikkelen van vriendschappen, vooral met mensen met andere politieke opvattingen dan ik. Ik vergeet af en toe aan win-win situaties te denken en loop over op "wij versus zij"-denken. En afgaand op dit gebrabbel, ben ik ook nog steeds verschrikkelijk in  duidelijke communicatie.
 
-But I want to get better. This stuff is *hard*. Building peace & trust in the world, from the bottom up, is *hard*.
+Maar ik wil beter worden. Deze dingen zijn *moeilijk*. Het opbouwen van vrede en vertrouwen in de wereld, vanuit het niets, is *moeilijk*.
 
-And that's why it's worth it. <3
+En daarom is het het waard. <3
